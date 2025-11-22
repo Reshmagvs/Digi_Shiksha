@@ -1,4 +1,5 @@
 # 📘 Digi Shiksha  
+
 AI-Powered Multilingual Tutoring System for Foundational Literacy & Numeracy
 
 Digi Shiksha is an **AI-driven educational platform** designed for students in Indian government schools.  
@@ -11,21 +12,17 @@ It provides **personalized, multilingual tutoring** in foundational literacy and
 
 The goal: **Equitable, scalable learning outcomes in low-resource environments.**
 
----
+##  Features
 
-## 🚀 Features
+-  **Personalized Learning** – AI adapts to each learner’s pace  
+-  **Numeracy & Literacy Support**  
+-  **Multilingual tutoring** (Hindi, Telugu, Tamil, Kannada, Bengali, English, etc.)  
+-  **Teacher Dashboard** with progress tracking  
+-  **Full-page vertical UI** built using HTML + CSS + JSON  
+-  **Google Cloud CLI deployment**  
+-  **Lightweight & scalable for government schools**  
 
-- 🎯 **Personalized Learning** – AI adapts to each learner’s pace  
-- 🧮 **Numeracy & Literacy Support**  
-- 🌍 **Multilingual tutoring** (Hindi, Telugu, Tamil, Kannada, Bengali, English, etc.)  
-- 👩‍🏫 **Teacher Dashboard** with progress tracking  
-- 🖥️ **Full-page vertical UI** built using HTML + CSS + JSON  
-- ☁️ **Google Cloud CLI deployment**  
-- 🔄 **Lightweight & scalable for government schools**  
-
----
-
-## 🧠 Multi-Agent Architecture (Google ADK)
+## Multi-Agent Architecture (Google ADK)
 
 Digi Shiksha uses multiple Google ADK agents:
 
@@ -37,12 +34,6 @@ Digi Shiksha uses multiple Google ADK agents:
 | Progress Agent       | Tracks learning level changes |
 | Insight Agent        | Generates teacher reports |
 
----
-
-## 🏛️ System Architecture
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -53,4 +44,7 @@ Digi Shiksha uses multiple Google ADK agents:
 | Hosting | Google Cloud CLI |
 | Database | SQLite / Firestore |
 
----
+## Insights
+
+![setup](https://github.com/Reshmagvs/Digi_Shiksha/blob/main/hack__.png)
+
